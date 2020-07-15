@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Ease</string>
+    <string name="full_name">Full Name</string>
+    <string name="make_your_password">Make your Password</string>
+    <string name= "info1">
+        <br>Bed type: King </br>
+        <br>Room View: Valley</br>
+        <br>Size: 168sq.ft  </br>
+        <br>500 Rs for 1 day, 1 person.</br>
+    </string>
+    <string name= "info2">
+        <br>Bed type: Double </br>
+        <br>Room View: Sea</br>
+        <br>Size: 288sq.ft  </br>
+        <br>300 Rs for 1 day, 1 person.</br>
+    </string>
+    <string name= "info3">
+        <br>Bed type: Double </br>
+        <br>Room View: Lobby</br>
+        <br>Size: 108sq.ft</br>
+        <br>100 Rs for 1 day, 1 person.</br>
+
+    </string>
+    <string name= "main">
+        <br>Welcome to a place where you can have all</br>
+        <br>Imagine a hotel where the priority is you</br>
+        <br>Discover a new world located at the heart of the city</br>
+        <br>The element of nature blend on this area to form one of the world\'s unique Hospitality</br>
+    </string>
+    <string name="auth_failed"> Authentication failed due to some reason</string>
+    <string name="minimum_password">Dont mess around. Put a valid password</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435773753808",
+    "firebase_url": "https://ease-1bff2.firebaseio.com",
+    "project_id": "ease-1bff2",
+    "storage_bucket": "ease-1bff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435773753808:android:8e2ed9ac46468995d051d5",
+        "android_client_info": {
+          "package_name": "com.example.ease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435773753808-tbsc2sandk3rqfriqo7jvd7eahu98efk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUa3VN9mXUGKN-KljgYxEjnx1D_IzCxLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435773753808-tbsc2sandk3rqfriqo7jvd7eahu98efk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
